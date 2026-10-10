@@ -42,6 +42,7 @@ src/
     doctors.js          mock doctor data (replace with real API later)
 ```
 
+
 ## Remaining work
 
 - Replace mock doctor data in `src/data/doctors.js` with the doctors API.
